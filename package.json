@@ -1,7 +1,6 @@
 {
   "name": "task-app",
   "version": "1.0.0",
-  "type": "module",
   "description": "Originally, a tech interview posed to my friend Olivia. I couldn't get the stretch goals out my mind and decided to use it to learn the react-dnd library.",
   "main": "index.js",
   "scripts": {
