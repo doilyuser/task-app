@@ -1,0 +1,27 @@
+{
+  "name": "task-app",
+  "version": "1.0.0",
+  "description": "Originally, a tech interview posed to my friend Olivia. I couldn't get the stretch goals out my mind and decided to use it to learn the react-dnd library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doilyuser/task-app.git"
+  },
+  "keywords": [
+    "typescript",
+    "vue",
+    "SQLite",
+    "react",
+    "node.js",
+    "react-dnd"
+  ],
+  "author": "doilyuser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doilyuser/task-app/issues"
+  },
+  "homepage": "https://github.com/doilyuser/task-app#readme"
+}
